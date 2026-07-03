@@ -12,4 +12,4 @@ This repository contains the setup for the ISRO Bharatiya Antariksh Hackathon Pr
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/dev-june05/C-SIRIUS/
-   cd Satellite-Image-Retrieval
+   cd C-SIRIUS
