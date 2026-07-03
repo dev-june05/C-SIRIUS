@@ -1,0 +1,28 @@
+# Deep Learning Core
+torch
+torchvision
+timm
+transformers
+
+# Contrastive Learning & Retrieval
+lightly
+faiss-cpu # faiss-gpu actually gives better performance using CUDA cores, but it is a pain to install on Windows, so we can skip for now. If you are working on a Linux machine, use faiss-gpu instead of faiss-cpu for better performance.
+
+# Geospatial & Image Processing
+albumentations
+rasterio
+geopandas
+pyproj
+# pyrosar (Optional: can be tricky to install on Windows, we can skip for now and use basic preprocessing)
+
+# Data Science & Visualization
+numpy
+pandas
+matplotlib
+scikit-learn
+umap-learn
+
+# Dashboard & Tracking
+streamlit
+wandb
+tqdm
